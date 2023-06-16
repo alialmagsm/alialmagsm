@@ -10,4 +10,4 @@
 apt install python3
 بعد از نصب پایتون دستور زیر را اجرا کنید 
 
-
+wget https://github.com/alialmagsm/alialmagsm.git
